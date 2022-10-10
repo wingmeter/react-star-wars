@@ -1,0 +1,14 @@
+.img 
+{
+    width: 250px;
+    margin: auto;
+    margin-top: 10px;
+}
+.text 
+{
+    margin-top: var(--spacing-large);
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    text-shadow: var(--text-shadow-blue);
+}
